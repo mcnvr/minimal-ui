@@ -20,7 +20,7 @@ Enables user to show the most of multiple Chrome windows open simultaneously.
 
 ## Example
 
-<img width="959" alt="image" src="https://github.com/mcnvr/minimal-ui/assets/120989499/559879b2-0c91-4c69-afec-6f3048f6d932">
+<img width="240" alt="image" src="https://github.com/mcnvr/minimal-ui/assets/120989499/559879b2-0c91-4c69-afec-6f3048f6d932">
 
 -->
 
