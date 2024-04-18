@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Minimal UI",
+  "version": "1.0",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "128": "min128.png"
+  },
+  "action": {
+    "default_title": "Open Minimal UI",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["tabs"]
+}
