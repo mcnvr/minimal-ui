@@ -6,7 +6,7 @@ Good for showing the most of your screen without having to fullscreen with F11.
 
 Enables user to show the most of multiple Chrome windows open simultaneously. 
 
-## Installation Instructions
+## Installation
 
 1. Clone repository to local machine
 
